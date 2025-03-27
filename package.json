@@ -1,9 +1,9 @@
 {
   "name": "webpack-boilerplate-project",
   "version": "1.0.0",
-  "homepage": "https://[your username here].github.io/[name of github repo]",
+  "homepage": "https://[JMurphy0303].github.io/[gaelic-names]",
   "description": "",
-  "main": "main.js",
+  "main": "main.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --open",
